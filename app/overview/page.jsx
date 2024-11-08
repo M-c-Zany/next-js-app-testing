@@ -3,8 +3,8 @@ import styles from './overview.module.css'
 
 const items = [
     {
-      summary: 'Step 1) Open this project in your code editor',
-      details: null,
+      summary: 'Step 1) Take the clone of the repo',
+      details: "git clone https://github.com/M-c-Zany/next-js-app-testing.git",
       id: '1',
     },
     {
