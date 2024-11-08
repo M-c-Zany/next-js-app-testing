@@ -3,8 +3,8 @@ import styles from './overview.module.css'
 
 const items = [
     {
-      summary: 'Step 1) Clone my repo',
-      details: 'git clone https://github.com/coderyansolomon/cypress-course.git',
+      summary: 'Step 1) Open this project in your code editor',
+      details: null,
       id: '1',
     },
     {
